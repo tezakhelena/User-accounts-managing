@@ -1,0 +1,4 @@
+Pokrenite xampp.
+Pokrenite Apache i MySQL.
+Otvorite preglednik i upišite localhost/korisnik/.
+Otvorit će se index.php od aplikacije.
